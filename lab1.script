@@ -1,0 +1,15 @@
+Script started on 2016年03月14日 (週一) 16時40分06秒
+]0;F74044046@2015cpp: ~F74044046@2015cpp:~$ whoami; pwd
+F74044046
+/home/F74044046
+]0;F74044046@2015cpp: ~F74044046@2015cpp:~$ git config -l
+user.name=Fader1997
+user.email=ytsb72984@gmail.com
+]0;F74044046@2015cpp: ~F74044046@2015cpp:~$ git clone https://github.com/Fader1997/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F74044046@2015cpp: ~F74044046@2015cpp:~$ exit
+
+Script done on 2016年03月14日 (週一) 16時40分45秒
